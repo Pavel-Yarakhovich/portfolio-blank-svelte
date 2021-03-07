@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Pavel Yarakhovich",
+    "occupation": "Frontend Developer for Omertex, LTD",
+    "description": "JavaScript lover",
+    "image": "profilepic.jpg",
+    "bio": "<p>Since my very childhood I’ve always been passionate about creating something either useful, nice-looking or tasty. This passion corresponds with my hobbies: drawing and cooking. The creation process itself gives me a great pleasure, but even more pleasure comes with the realization that the results of my work bring someone benefit or joy.</p><p>This probably best describes why I’m happy being a front-end developer.Front-end development gave me the best way to satisfy my aspirations and keeps bringing me joy day by day. The things I’m able to create now are both nice-looking, “tasty” and useful. Plenty of frameworks, libraries and tools makes me persistently look for ideas to enhance my creation process hence to polish the results of my work.</p><p>I have a long way to go and I enjoy every step.</p>",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "pavel.yarri@gmail.com",
+    "phone": "+375295559280",
+    "address": {
+      "street": "Khoruzhei",
+      "city": "Minsk",
+      "state": "Belarus",
+      "zip": "220123"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/feed/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Pavel-Yarakhovich",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Kent - UK",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
